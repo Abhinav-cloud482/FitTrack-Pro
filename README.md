@@ -130,6 +130,7 @@ It is **not a substitute for professional medical advice**.
 
 ## Author
 
-Developed by *Your Name*
+Abhinav Dixit
 
+Python Developer | Data & ML Enthusiast
 
