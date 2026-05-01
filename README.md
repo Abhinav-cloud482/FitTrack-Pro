@@ -64,7 +64,23 @@ python main.py
 
 ## Screenshots
 
-> (Add screenshots here after uploading images)
+<img width="1266" height="717" alt="1" src="https://github.com/user-attachments/assets/321599f0-9c1e-45ff-a980-a1f9717f6d6c" />
+
+<img width="1305" height="713" alt="2" src="https://github.com/user-attachments/assets/10d27b17-f205-4780-8712-8199af3a4d3d" />
+
+<img width="1048" height="724" alt="3" src="https://github.com/user-attachments/assets/370b968f-b688-4560-8ecd-86885062e1b5" />
+
+<img width="1154" height="699" alt="4" src="https://github.com/user-attachments/assets/5338ace4-737b-472d-97fb-c6c342b36109" />
+
+<img width="1081" height="711" alt="5" src="https://github.com/user-attachments/assets/75eb32a5-bddf-40f2-a9ca-de4b8d2728e5" />
+
+<img width="1155" height="716" alt="6" src="https://github.com/user-attachments/assets/3421c374-4997-4ca0-acc6-3edd6e733272" />
+
+<img width="1129" height="710" alt="7" src="https://github.com/user-attachments/assets/a64e9411-2e35-4bb0-9882-d7ac7ed7a917" />
+
+<img width="1105" height="698" alt="8" src="https://github.com/user-attachments/assets/5598cffe-72f4-4089-979d-5a0b76dbf5c4" />
+
+<img width="1366" height="721" alt="9" src="https://github.com/user-attachments/assets/048ee22a-c03b-4b74-8b91-66a1ce0e2bc2" />
 
 
 ## How It Works
